@@ -1,0 +1,1 @@
+szkolenie_techniczne_responsywna_strona
